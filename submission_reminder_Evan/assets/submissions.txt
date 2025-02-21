@@ -1,0 +1,17 @@
+student, assignment, submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+Bob, Shell Navigation, submitted
+Alice, Git, not submitted
+Charlie, Shell Basics, not submitted
+David, Shell Navigation, submitted
+Eve, JavaScript Basics, not submitted
+Felix, Python Basics, submitted
+Grace, CSS Flexbox, not submitted
+Hank, Ruby Programming, submitted
+Ivy, SQL Queries, not submitted
+Jack, ReactJS, submitted
+Karen, TypeScript, not submitted
+Laura, MongoDB, submitted
